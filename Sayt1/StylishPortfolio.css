@@ -1,0 +1,402 @@
+*{
+       margin: 0px;
+       padding: 0px;
+}
+.birinci{
+ background-image: url(https://img5.goodfon.com/wallpaper/nbig/3/ad/paper-pencil-yellow.jpg);
+ width: 100%;
+ height: 100vh;
+ background-size: cover;
+}
+.yazi1{
+       width: 50%;
+       height: 20vh;
+       padding: 15px 25px;
+       box-sizing: border-box;
+       position: relative;
+       top: 280px;
+       left: 450px;
+}
+.birinci b{
+       font-size: 80px;
+       font-family: 'Roboto', sans-serif;
+       }
+.birinci h1{
+       font-size: 29px;
+       font-style: italic;
+       font-family: 'Roboto', sans-serif;
+}
+.button{
+       width: 100%;
+       height: 15vh;
+       position: relative;
+       top: 300px;
+       padding:2.5vh 45% ;
+       box-sizing: border-box;
+}
+.goy-button{
+       width: 170px;
+       height: 70px;
+       background-color: #1D809F;
+       border-radius: 5%;
+       cursor: pointer;
+       padding: 26px;
+       box-sizing: border-box;
+}
+.goy-button p{
+       text-align: center;
+       color: white;
+       font-size: 18px;
+       font-family: 'Roboto', sans-serif;
+
+}
+.goy-button:hover{
+       background-color:#135265;
+}
+.ag{
+       width: 100%;
+       height: 50vh;
+       background-color: white;
+}
+.yazi2{
+       width: 100%;
+       height: 20vh;
+       position: relative;
+       top: 50px;
+       text-align: center;
+       padding-top: 60px;
+       box-sizing: border-box;
+       line-height: 30px;
+}
+.yazi2 b{
+       font-size: 30px;
+       font-family: 'Roboto', sans-serif;
+}
+.yazi2 h1{
+       font-size: 16px;
+       font-family: 'Roboto', sans-serif;
+}
+.button2{
+       width: 100%;
+       height: 10vh;
+       padding: 10vh 44%;
+       box-sizing: border-box;
+}
+.qara-button{
+       width: 170px;
+       height: 60px;
+       background-color: black;
+       border-radius: 5%;
+       cursor: pointer;
+       padding: 20px;
+       box-sizing: border-box;
+}
+.qara-button p{
+       text-align: center;
+       color: white;
+       font-size: 18px;
+       font-family: 'Roboto', sans-serif;
+}
+.goy{
+       width: 100%;
+       height: 70vh;
+       background-color: #1D809F ;
+}
+.yazi3{
+       width: 100%;
+       height: 20vh;
+       position: relative;
+       top: 80px;
+       text-align: center;
+       line-height: 40px;
+}
+.yazi3 b{
+       font-size: 18px;
+       font-family: 'Roboto', sans-serif;
+       color: #ecb807;
+}
+.yazi3 h1{
+       font-size: 45px;
+       font-family: 'Roboto', sans-serif;
+      color: white;
+}
+.icon{
+       width: 100%;
+       height: 260px;
+       position: relative;
+       top: 40px;
+       padding-top: 40px;
+       box-sizing: border-box;
+       display: flex; 
+}
+.item1{
+       width: 150px;
+       height:150px ;
+       background-color: white;
+       border-radius: 50%;
+       margin-left: 180px;
+}
+.yazilar{
+       width: 100%;
+       height: 15vh;
+       position: relative;
+       padding-left: 62px;
+       box-sizing: border-box;
+       display: flex; 
+}
+.item2{
+       width: 255px;
+       height:100px ;
+       margin-left: 75px;
+}
+.item2 b{
+       display: block;
+       text-align: center;
+       font-size: 25px;
+       font-family: 'Roboto', sans-serif;
+       color: white;
+}
+.item2 p{
+       display: block;
+       text-align: center;
+       font-size: 16px;
+       font-family: 'Roboto', sans-serif;
+       color:#8BC5F0 ;
+       line-height: 30px;
+}
+.ikinci{
+       background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+       width: 100%;
+       height: 100vh;
+       background-size: cover;
+}
+.yazi4{
+       width: 33%;
+       height: 30vh;
+       position: relative;
+       top: 350px;
+       left: 500px;
+}
+.yazi4 b{
+        color: black;
+       font-size: 60px;
+       display: block;
+       text-align: center;
+        font-family: 'Roboto', sans-serif;
+}
+.button3{
+       width: 180px;
+       height: 70px;
+       background-color: #1D809F;
+       border-radius: 5%;
+       position: relative;
+       left: 34%;
+       top: 35px;
+       cursor: pointer;
+       padding: 15px;
+       box-sizing: border-box;
+       font-family: 'Roboto', sans-serif;
+       color: white;
+}
+.button3:hover{
+    background-color: #135265;   
+}
+.ag1{
+       width: 100%;
+       height: 140vh;
+       background-color: white;
+       padding-top: 50px 
+       box-sizing: border-box;
+}
+.yazi5{
+       width: 30%;
+       height: 20vh;
+       position: relative;
+       left: 35%;
+       padding-top: 30px;
+       box-sizing: border-box;
+       margin-top: 50px;
+}
+.yazi5 b{
+       display: block;
+       text-align: center;
+       font-family: 'Roboto', sans-serif;
+       font-weight: bold;
+        color: #ecb807;
+}
+.yazi5 p{
+       font-size: 50px;
+       color: black;
+       font-family: 'Roboto', sans-serif;
+       font-weight: bold;
+       display: block;
+       text-align: center;
+}
+
+.sekiller{
+       width: 90%;
+       display: flex;       
+       flex-direction: column;
+       position: absolute;
+       padding-left: 10%;
+       box-sizing: border-box;
+}
+.main{
+       position: relative;
+}
+.bir1{
+       display: flex;
+       width: 100%;
+}
+.div1{
+       background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-1.jpg);
+       background-size: cover;
+}
+.div2{
+       background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-2.jpg");
+       background-size: cover;
+}
+.iki2{
+       display: flex;
+       width: 100%;
+}
+.div3{
+       background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-3.jpg");
+       background-size: cover;
+}
+.div4{
+       background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-4.jpg");
+       background-size: cover;
+
+}
+.passiv .item{
+       opacity: 0;
+}
+.passiv .item:hover{
+       opacity: 1;
+       border: 20px solid white;
+       box-sizing: border-box;
+       transition:0.5s;
+}
+.item{
+       width: 50%;
+       height: 400px;
+       display: inline-block;
+       background-color: rgba(0,169,248,0.7);
+       cursor: pointer;
+}
+.sekil_yazi{
+       margin-top: 300px;
+    margin-left: 40px;
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    line-height: 25px;
+}
+.sekil_yazi h2{
+       font-size: 15px;
+}
+.goy2{
+       width: 100%;
+       height: 50vh;
+       background-color: #1D809F ;
+       padding-top: 15vh;
+       box-sizing: border-box;
+}
+.goy2 b{
+       color: white;
+       font-size: 35px;
+       font-family: 'Roboto', sans-serif;
+       display: block;
+       text-align: center;
+}
+.ag-button{
+       width: 160px;
+       height: 70px;
+       background-color: white;
+       border-radius: 5%;
+       cursor: pointer;
+       padding: 25px 40px;
+       box-sizing: border-box;
+       position: relative;
+       left: 580px;
+       top: 50px;
+       color: black;
+}
+.qara-button2{
+       width: 160px;
+       height: 70px;
+       background-color: black;
+       border-radius: 5%;
+       cursor: pointer;
+       padding: 25px 35px;
+       box-sizing: border-box;
+       position: relative;
+       bottom: 20px;
+       left: 780px;
+       color: white;
+}
+.xerite{
+       width: 100%;
+       height: 85vh;
+      
+}
+.xerite iframe{
+       width: 99.7%;
+       height: 85vh;
+       pointer-events: none;
+}
+.son{
+       width: 100%;
+       height: 40vh;
+       background-color: white;
+}
+.iconlar{
+       width: 30%;
+       height: 15vh;
+       position: relative;
+       top: 100px;
+       left: 535px;
+       padding-left: 100px;
+       box-sizing: border-box;
+       display: flex;
+}
+.facebook{
+       width: 70px;
+       height: 70px;
+       background-color:#1D809F ;
+       border-radius: 50%;
+       cursor: pointer;
+}
+.facebook:hover{
+       background-color:#135265;
+}
+.twitter{
+       width: 70px;
+       height: 70px;
+       background-color:#1D809F ;
+       border-radius: 50%;
+       margin-left: 20px;
+       cursor: pointer;
+}
+.twitter:hover{
+       background-color:#135265;
+}
+.cat{
+       width: 70px;
+       height: 70px;
+       background-color:#1D809F ;
+       border-radius: 50%;
+        margin-left: 20px;
+        cursor: pointer;
+}
+.cat:hover{
+       background-color:#135265;
+}
+.son p{
+       display:block;
+       text-align: center;
+       margin-top: 100px;
+       font-size: 15px;
+       color: #6c757d;
+       font-family: 'Roboto', sans-serif;
+}
